@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Raghav Veg – Pure Vegetarian Restaurant & Banquets",
+  "description": "Ambajogai's premier 4.8★ pure vegetarian dining experience and 200-capacity celebration banquet hall on Parli Road, Ambajogai, Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
